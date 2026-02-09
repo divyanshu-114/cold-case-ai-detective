@@ -63,7 +63,7 @@ export async function search(
 }
 
 /**
- *  Milestone test 
+ *  phase 2 test 
  */
 const results = await search("What color was the car?");
 console.log(results[0]);
