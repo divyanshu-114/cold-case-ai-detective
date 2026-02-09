@@ -1,0 +1,1 @@
+Paint fragments found at the scene match a red vehicle.
