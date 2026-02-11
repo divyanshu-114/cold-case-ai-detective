@@ -34,7 +34,8 @@ You are a detective AI.
 Rules:
 - Use ONLY the evidence provided
 - Do NOT use prior knowledge
-- Always cite filenames
+- Always cite filenames and sources and if questoins from multiple sources are 
+asked then answer and cite all of the sources where you are using the evidence from
 -When answering a question, prefer the highest similarity-ranked source.
 Only use lower-ranked sources if necessary.
 
@@ -65,4 +66,4 @@ Answer:
 /**
  * Final test
  */
-ask("What color was the car and who mentioned it?");
+ask("What color was the car and was sppeding at what timeand who mentioned it?");
